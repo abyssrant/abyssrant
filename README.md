@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abyssrant
-- 👀 I’m interested in coding robots
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning TO BE A COMPETITIVE PROGRAMMER
 - 💞️ I’m looking to collaborate with similar minds to learn better and have fun along the way
 
